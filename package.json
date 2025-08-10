@@ -1,0 +1,13 @@
+{
+  "name": "recruitrank",
+  "version": "1.0.0",
+  "description": "Candidate scoring and ranking system",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "pg": "^8.10.0"
+  }
+}
